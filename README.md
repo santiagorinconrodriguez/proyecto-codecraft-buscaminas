@@ -48,14 +48,14 @@ Presentar y desarrollar un juego interactivo de Buscaminas que combine lógica, 
     -> Si no tiene una mina:
         - Calcular y mostrar el número de minas vecinas.
 - Luego de cada jugada:
-    Verificar si todas las casillas *sin mina han sido descubiertas.
+    Verificar si todas las casillas sin mina han sido descubiertas.
         -> Si sí, mostrar mensaje de “¡Has ganado!”.
         -> Si no, esperar el siguiente clic.
 - Tras ganar o perder:
     -> Preguntar al jugador si desea volver a jugar.
         -> Si elige Sí, reiniciar desde selección de dificultad.
         -> Si elige No,cerrar el juego.
-
+  
 ## *Diagrama de flujo del juego*
 
 ``` mermaid
