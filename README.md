@@ -90,15 +90,15 @@ flowchart TD
 ## Plan de desarrollo
 ### Cronograma
 
-|  Semana  |          Fecha          | Tema                                                                                |
-|----------|-------------------------|-------------------------------------------------------------------------------------|
-| Semana 10| 09/06/2025 - 15/06/2025 | ✅ Diseño del preproyecto: ideas del juego, reglas, diagramas de flujo              |
-| Semana 11| 16/06/2025 - 22/06/2025 | 📋 Revisión de avances: presentación de diagramas, retroalimentación del docente    |
-| Semana 12| 23/06/2025 - 29/06/2025 | 🧠 Estructura base del juego: lógica, funciones principales                         |
-| Semana 13| 30/07/2025 - 06/07/2025 | 🐞 Depuración y validación: comprobar que el buscaminas básico funcione bien        |
-| Semana 14| 07/07/2025 - 13/07/2025 | 🎨 Inicio de interfaz gráfica con tkinter o pygame                                  |
-| Semana 15| 14/07/2025 - 20/07/2025 | 🧪 Integración y pruebas: conectar lógica + interfaz, ajustar errores               |
-| Semana 16| 21/07/2025 - 27/07/2025 | 	🧾 Presentación final del proyecto: mostrar funcionalidades completas y exponer    | 
+|  Semana  |          Fecha          | Tema                                                                                           |
+|----------|-------------------------|------------------------------------------------------------------------------------------------|
+| Semana 10| 09/06/2025 - 15/06/2025 | ✅ Diseño del preproyecto: ideas del juego, reglas, diagramas de flujo                         |
+| Semana 11| 16/06/2025 - 22/06/2025 | 📋 Revisión de avances: presentación del diagramas de flujo y retroalimentación del profesor   |
+| Semana 12| 23/06/2025 - 29/06/2025 | 🧠 Estructura base del juego: lógica, funciones principales, etc                               |
+| Semana 13| 30/07/2025 - 06/07/2025 | 🐞 Depuración y validación: comprobar que el buscaminas funcione bien                          |
+| Semana 14| 07/07/2025 - 13/07/2025 | 🎨 Inicio de interfaz gráfica con tkinter o pygame                                             |
+| Semana 15| 14/07/2025 - 20/07/2025 | 🧪 Integración y pruebas: conectar lógica + interfaz                                           |
+| Semana 16| 21/07/2025 - 27/07/2025 | 🧾 Presentación final del proyecto: mostrar funcionalidades completas y exponer                | 
 
 # Autores:
 - [Brayan Santiago Rincón Rodríguez](https://github.com/santiagorinconrodriguez)
