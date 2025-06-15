@@ -33,6 +33,7 @@ Presentar y desarrollar un juego interactivo de Buscaminas que combine lógica, 
 - Mostrar pantalla principal.
 - Preguntar al usuario si desea ver las instrucciones:
     Si elige "Sí", mostrar texto con las reglas del juego.
+    Si elige "No", Seguir con el siguiente proceso.
 - Continuar con la selección de dificultad.
 - Preguntar al usuario qué dificultad desea:
     -> Principiante -> tablero 8x8, 10 minas.
