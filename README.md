@@ -2,6 +2,7 @@
 
 ## Mine Hunter 3000 🥊💣💥
 
+## Introducción
 ### *¿En qué consiste el juego de Buscaminas?*
 
 Buscaminas es un videojuego clásico de lógica y estrategia, comúnmente jugado en computadoras personales. El juego se desarrolla sobre una cuadrícula compuesta por varias casillas, algunas de las cuales esconden minas. 
@@ -14,11 +15,12 @@ El juego se gana al descubrir correctamente todas las casillas libres de minas. 
 
 ![image](https://github.com/user-attachments/assets/c497a985-9978-4cd7-80ae-2d9d8d919251)
 
+## Objetivos
 ### *Objetivo general*
 
 Presentar y desarrollar un juego interactivo de Buscaminas que combine lógica, estrategia y entretenimiento, implementando una interfaz intuitiva que facilite al usuario la toma de decisiones basadas en pistas numéricas para descubrir las celdas seguras, evitando las minas ocultas y completando el desafío dentro de una experiencia funcional y accesible.
 
-### *Objetivos específicos*
+#### *Objetivos específicos*
 
 1. Desarrollar una interfaz intuitiva que permita al usuario interactuar con el juego mediante clics, como el marcar o reiniciar juego.
 2. Diseñar la estructura del tablero y establecer la lógica de distribución aleatoria de minas según los diferentes niveles de dificultad.
@@ -26,7 +28,7 @@ Presentar y desarrollar un juego interactivo de Buscaminas que combine lógica, 
 4. Incorporar elementos visuales para aquellas acciones clave que el jugador realiza como: marcar mina(mediante un símbolo de bandera), descubrir celda, ganar o perder.
 5. Poner en práctica todos los conocimientos adquiridos durante el curso programación de computadores.
 
-### *Diagrama de flujo del juego*
+## *Diagrama de flujo del juego*
 
 ``` mermaid
 ---
@@ -57,7 +59,8 @@ flowchart TD
     Q -- Sí -->F
     Q -- No --> P(["Fin"])
 ```
-### Plan de desarrollo
+## Plan de desarrollo
+### Cronograma
 
 |  Semana  |          Fecha          | Tema                                                                                |
 |----------|-------------------------|-------------------------------------------------------------------------------------|
