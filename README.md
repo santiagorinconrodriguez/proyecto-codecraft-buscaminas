@@ -72,3 +72,7 @@ flowchart TD
 | Semana 15| 14/07/2025 - 20/07/2025 | 🧪 Integración y pruebas: conectar lógica + interfaz, ajustar errores               |
 | Semana 16| 21/07/2025 - 27/07/2025 | 	🧾 Presentación final del proyecto: mostrar funcionalidades completas y exponer    | 
 
+# Autores:
+- [Brayan Santiago Rincón Rodríguez](https://github.com/santiagorinconrodriguez)
+- [Nelson Manuel Amaya Diaz](https://github.com/ingnelama)
+- [Sebastian Carvajal Rojas](https://github.com/sebascarvajalr)
