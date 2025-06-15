@@ -28,6 +28,33 @@ Presentar y desarrollar un juego interactivo de Buscaminas que combine lógica, 
 4. Incorporar elementos visuales para aquellas acciones clave que el jugador realiza como: marcar mina(mediante un símbolo de bandera), descubrir celda, ganar o perder.
 5. Poner en práctica todos los conocimientos adquiridos durante el curso programación de computadores.
 
+## *Lógica del juego*
+
+- Mostrar pantalla principal.
+- Preguntar al usuario si desea ver las instrucciones:
+    Si elige "Sí", mostrar texto con las reglas del juego.
+- Continuar con la selección de dificultad.
+- Preguntar al usuario qué dificultad desea:
+    -> Principiante -> tablero 8x8, 10 minas.
+    -> Intermedio -> tablero 16x16, 40 minas.
+    -> Experto -> tablero 16x36, 99 minas.
+- Generar el tablero vacío y colocar minas de forma aleatoria.
+- El jugador selecciona una casilla.
+- Evaluar la casilla:
+    -> Si tiene una mina:
+        - Mostrar mensaje de “Juego perdido”.
+        - Ofrecer opción de volver a jugar.
+    -> Si no tiene una mina:
+        - Calcular y mostrar el número de minas vecinas.
+- Luego de cada jugada:
+    Verificar si todas las casillas *sin mina han sido descubiertas.
+        → Si sí, mostrar mensaje de “¡Has ganado!”.
+        → Si no, esperar el siguiente clic.
+- Tras ganar o perder:
+    → Preguntar al jugador si desea volver a jugar.
+        → Si elige Sí, reiniciar desde selección de dificultad.
+        → Si elige No,cerrar el juego.
+
 ## *Diagrama de flujo del juego*
 
 ``` mermaid
