@@ -52,9 +52,10 @@ flowchart TD
     K -- No --> M[/Mostrar número de minas cercanas/]
     M --> N{"¿Ha descubierto todas las casillas?"}
     N -- No -->J
-    N -- Sí --> O{"¿Desea volver a jugar?"}
+    N -- Sí --> O[/Mostrar mensaje de juego ganado/]
+    O --> Q{"¿Desea volver a jugar?"}
+    Q -- Sí -->F
     O -- No --> P(["Fin"])
-    O -- Sí --> F
 ```
 
 
