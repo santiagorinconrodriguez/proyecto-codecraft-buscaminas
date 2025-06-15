@@ -57,5 +57,17 @@ flowchart TD
     Q -- Sí -->F
     Q -- No --> P(["Fin"])
 ```
+### Cronograma 
 
+▼ **Plan de desarrollo**
+
+|  Semana  |    Fecha    | Tema                                                 |
+|----------|-------------|------------------------------------------------------|
+| Semana 10| 31/01/2025  | Avanzar en el preproyecto                            |
+| Semana 11| 02/04/2025  | Presentar avances del proyecto                       |
+| Semana 12| 07/04/2025  | Codificar el buscaminas con python                   |
+| Semana 13| 09/04/2025  | codificar el buscaminas con python                   |
+| Semana 14| 14/04/2025  | Codificar la interfaz gráfica con pygame o tKinter   |
+| Semana 15| 16/04/2025  | Codificar la interfaz gráfica con pygame o tKinter   |
+| Semana 16| 21/04/2025  | Presentación final del proyecto                      | 
 
