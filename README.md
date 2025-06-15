@@ -24,3 +24,36 @@ Presentar y desarrollar un juego interactivo de Buscaminas que combine lógica, 
 2. Diseñar la estructura del tablero y establecer la lógica de distribución aleatoria de minas según los diferentes niveles de dificultad.
 3. Implementar un sistema que calcule y muestre correctamente la cantidad de minas cercanas a cada celda descubierta.
 4. Incorporar elementos visuales para aquellas acciones clave que el jugador realiza como: marcar mina(mediante un símbolo de bandera), descubrir celda, ganar o perder.
+
+### Diagrama de flujo del juego
+
+``` mermaid
+---
+config:
+  theme: redux
+---
+
+flowchart TD
+    A(["Inicio"]) --> B[Pantalla principal]
+    B --> C{"¿Desea ver las instrucciones del juego?"}
+    C -- Sí --> D[/Mostrar instrucciones/]
+    C -- No --> F
+    D --> F{"Escoga una dificultad"}
+    F -- Principiante --> G[/Mostrar tablero 8 x 8 con 10 minas/]
+    F -- Intermedio --> H[/Mostrar tablero 16 x 16 con 40 minas/]
+    F -- Experto --> I[/Mostrar tablero 16 x 36 con 99 minas/]
+    G --> J[seleccione una casilla]
+    H --> J
+    I --> J
+    J --> K{"¿La casilla tiene mina?"}
+    K -- Sí --> L[/Mostrar mensaje de juego perdido/]
+    L --> O
+    K -- No --> M[/Mostrar número de minas cercanas/]
+    M --> N{"¿Ha descubierto todas las casillas?"}
+    N -- No -->J
+    N -- Sí --> O{"¿Desea volver a jugar?"}
+    O -- No --> P(["Fin"])
+    O -- Sí --> F
+```
+
+
