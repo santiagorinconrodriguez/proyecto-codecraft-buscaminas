@@ -57,17 +57,15 @@ flowchart TD
     Q -- Sí -->F
     Q -- No --> P(["Fin"])
 ```
-### Cronograma 
+### Plan de desarrollo
 
-▼ **Plan de desarrollo**
-
-|  Semana  |    Fecha    | Tema                                                 |
-|----------|-------------|------------------------------------------------------|
-| Semana 10| 31/01/2025  | Avanzar en el preproyecto                            |
-| Semana 11| 02/04/2025  | Presentar avances del proyecto                       |
-| Semana 12| 07/04/2025  | Codificar el buscaminas con python                   |
-| Semana 13| 09/04/2025  | codificar el buscaminas con python                   |
-| Semana 14| 14/04/2025  | Codificar la interfaz gráfica con pygame o tKinter   |
-| Semana 15| 16/04/2025  | Codificar la interfaz gráfica con pygame o tKinter   |
-| Semana 16| 21/04/2025  | Presentación final del proyecto                      | 
+|  Semana  |          Fecha          | Tema                                                                                |
+|----------|-------------------------|-------------------------------------------------------------------------------------|
+| Semana 10| 09/06/2025 - 15/06/2025 | ✅ Diseño del preproyecto: ideas del juego, reglas, diagramas de flujo              |
+| Semana 11| 16/06/2025 - 22/06/2025 | 📋 Revisión de avances: presentación de diagramas, retroalimentación del docente    |
+| Semana 12| 23/06/2025 - 29/06/2025 | 🧠 Estructura base del juego: lógica, funciones principales                         |
+| Semana 13| 30/07/2025 - 06/07/2025 | 🐞 Depuración y validación: comprobar que el buscaminas básico funcione bien        |
+| Semana 14| 07/07/2025 - 13/07/2025 | 🎨 Inicio de interfaz gráfica con tkinter o pygame                                  |
+| Semana 15| 14/07/2025 - 20/07/2025 | 🧪 Integración y pruebas: conectar lógica + interfaz, ajustar errores               |
+| Semana 16| 21/07/2025 - 27/07/2025 | 	🧾 Presentación final del proyecto: mostrar funcionalidades completas y exponer    | 
 
