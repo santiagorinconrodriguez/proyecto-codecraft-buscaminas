@@ -55,7 +55,7 @@ flowchart TD
     N -- Sí --> O[/Mostrar mensaje de juego ganado/]
     O --> Q{"¿Desea volver a jugar?"}
     Q -- Sí -->F
-    O -- No --> P(["Fin"])
+    Q -- No --> P(["Fin"])
 ```
 
 
