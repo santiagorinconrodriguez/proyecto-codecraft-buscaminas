@@ -48,7 +48,7 @@ flowchart TD
     I --> J
     J --> K{"¿La casilla tiene mina?"}
     K -- Sí --> L[/Mostrar mensaje de juego perdido/]
-    L --> O
+    L --> Q
     K -- No --> M[/Mostrar número de minas cercanas/]
     M --> N{"¿Ha descubierto todas las casillas?"}
     N -- No -->J
