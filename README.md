@@ -24,8 +24,9 @@ Presentar y desarrollar un juego interactivo de Buscaminas que combine lógica, 
 2. Diseñar la estructura del tablero y establecer la lógica de distribución aleatoria de minas según los diferentes niveles de dificultad.
 3. Implementar un sistema que calcule y muestre correctamente la cantidad de minas cercanas a cada celda descubierta.
 4. Incorporar elementos visuales para aquellas acciones clave que el jugador realiza como: marcar mina(mediante un símbolo de bandera), descubrir celda, ganar o perder.
+5. Poner en práctica todos los conocimientos adquiridos durante el curso programación de computadores.
 
-### Diagrama de flujo del juego
+### *Diagrama de flujo del juego*
 
 ``` mermaid
 ---
