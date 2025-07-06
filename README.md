@@ -74,10 +74,6 @@ _Ventajas_
 - Crea interfaces gráficas de usuario de forma rápida y eficiente, lo que es útil para aplicaciones de escritorio y otras herramientas. 
 - Es conocido por ser relativamente sencillo de aprender y usar.
 
-### Ventajas en nuestro proyecto
-
-Se utilizaran ambas ya que son las adecuadas para nuestro proyecto, Pygame permitiendonos la interacción de perifercios de bajo nivel, como el mouse; además que su codigo es abierto y con amplia documentación igual que tkinder, lo que nos facilitara su implemetación.
-
 En nuestro proyecto utilizaremos pygame ya que trae más herramientas y genera una interfaz grafica de mayor calidad, permitiendonos editar detalles con el fin de obtener un resultado más estetico.
 
 
