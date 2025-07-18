@@ -121,6 +121,15 @@ flowchart TD
 | Semana 15| 14/07/2025 - 20/07/2025 | 🧪 Integración y pruebas: conectar lógica + interfaz                                           |
 | Semana 16| 21/07/2025 - 27/07/2025 | 🧾 Presentación final del proyecto: mostrar funcionalidades completas y exponer                | 
 
+
+## Menú del juego:
+El menú principal es la pantalla inicial del juego desde donde el jugador puede acceder a las diferentes funciones antes de comenzar a jugar.
+<img width="995" height="772" alt="image" src="https://github.com/user-attachments/assets/d9f21f26-2de3-4755-abc5-d2ee9f90bfcc" />
+En el menú del juego se presentan dos opciones principales: ‘Continuar’ e ‘Instrucciones’. La opción ‘Continuar’ permite acceder a los diferentes niveles de dificultad que ofrece el juego, mientras que la opción ‘Instrucciones’ proporciona una guía con las indicaciones necesarias para aprender a jugar Mine Hunter 3000.
+[Mine-1.png](https://postimg.cc/MMtWJmvd)
+
+
+
 # Autores:
 - [Brayan Santiago Rincón Rodríguez](https://github.com/santiagorinconrodriguez)
 - [Nelson Manuel Amaya Diaz](https://github.com/ingnelama)
