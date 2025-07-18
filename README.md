@@ -174,7 +174,12 @@ En cambio, si el jugador selecciona una casilla que contiene una mina, el juego 
 
 <img width="331" height="257" alt="image" src="https://github.com/user-attachments/assets/9bbd9265-0f3f-46f1-af30-22d42c4f906b" />
 
+### Opciones al finalizar el juego:
+Al finalizar el juego, ya sea en caso de victoria o derrota, se presentan dos opciones en pantalla:
 
+- Salir: permite cerrar el juego por completo y regresar al escritorio.
+
+- Jugar de nuevo: redirige al jugador a la pantalla de selección de niveles de dificultad, para que pueda elegir un nuevo modo y volver a intentarlo.
 
 # Autores:
 - [Brayan Santiago Rincón Rodríguez](https://github.com/santiagorinconrodriguez)
