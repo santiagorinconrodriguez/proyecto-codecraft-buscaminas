@@ -164,7 +164,16 @@ Al ingresar a un nivel de dificultad, el jugador podrá seleccionar las casillas
 
 Si el jugador, después de revelar ciertas casillas, sospecha que hay una mina en una ubicación específica, podrá hacer clic derecho sobre esa casilla para colocar una bandera. Esta bandera indica que el jugador cree que hay una mina en ese lugar y sirve como una marca visual para evitar seleccionarla accidentalmente.
 
-<img width="331" height="257" alt="image" src="https://github.com/user-attachments/assets/78ced2a0-6bfa-4176-87d5-e284c1546619" />
+<img width="340" height="260" alt="image" src="https://github.com/user-attachments/assets/78ced2a0-6bfa-4176-87d5-e284c1546619" />
+
+En caso de que el jugador logre marcar correctamente todas las minas ocultas y revelar todas las casillas restantes sin errores, el juego mostrará el siguiente mensaje:
+
+<img width="331" height="257" alt="image" src="https://github.com/user-attachments/assets/03eda773-e77c-44b2-94f6-7971f1b2ae37" />
+
+En cambio, si el jugador selecciona una casilla que contiene una mina, el juego finalizará inmediatamente y se mostrará el siguiente mensaje:
+
+<img width="331" height="257" alt="image" src="https://github.com/user-attachments/assets/9bbd9265-0f3f-46f1-af30-22d42c4f906b" />
+
 
 
 # Autores:
