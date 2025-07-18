@@ -139,7 +139,8 @@ Posteriormente, el juego dirige al usuario a la selección de niveles de dificul
 
 <img width="331" height="257" alt="image" src="https://github.com/user-attachments/assets/e05f3297-2336-413a-8834-2be017ce403f" />
 
-En la pantalla de niveles de dificultad se presentan tres opciones. 
+## Niveles de dificultad
+En la pantalla de niveles de dificultad se presentan tres opciones, Principiante, Intermedio y Experto
 
 ### *Nivel Principiante:* 
 La primera es el nivel ‘Principiante’, que cuenta con un tablero de 4 x 4 casillas y un total de 3 minas distribuidas aleatoriamente. Este nivel está diseñado para usuarios que están empezando a familiarizarse con el juego.
