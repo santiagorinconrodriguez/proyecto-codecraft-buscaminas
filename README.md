@@ -124,16 +124,32 @@ flowchart TD
 
 ## Menú del juego:
 El menú principal es la pantalla inicial del juego desde donde el jugador puede acceder a las diferentes funciones antes de comenzar a jugar.
+
 <img width="331" height="257" alt="image" src="https://github.com/user-attachments/assets/d9f21f26-2de3-4755-abc5-d2ee9f90bfcc" />
+
 En el menú del juego se presentan dos opciones principales: ‘Continuar’ e ‘Instrucciones’. La opción ‘Continuar’ permite acceder a los diferentes niveles de dificultad que ofrece el juego, mientras que la opción ‘Instrucciones’ proporciona una guía con las indicaciones necesarias para aprender a jugar Mine Hunter 3000.
-<img width="331" height="257" alt="image" src="https://github.com/user-attachments/assets/81b45f9c-78aa-4253-9151-703c78bd62de" />}
+
+<img width="331" height="257" alt="image" src="https://github.com/user-attachments/assets/81b45f9c-78aa-4253-9151-703c78bd62de" />
+
 En el caso de la opción ‘Instrucciones’, esta dirige al jugador a una pantalla donde se explican las reglas y mecánicas del juego. Al finalizar la lectura, se mostrará un botón llamado ‘Continuar’, el cual, al igual que la opción principal del menú, permite acceder a los distintos niveles de dificultad del juego."
+
 <img width="331" height="257" alt="image" src="https://github.com/user-attachments/assets/fd66167f-abcf-4301-86a5-6c48013fb3a8" />
+
 Posteriormente, el juego dirige al usuario a la selección de niveles de dificultad, permitiéndole escoger aquel que mejor se adapte a su experiencia o interés.
-<img width="331" height="257" alt="image" src="https://github.com/user-attachments/assets/a18e80ec-3acb-46c9-a950-c110745733ec" />
 
+<img width="331" height="257" alt="image" src="https://github.com/user-attachments/assets/e05f3297-2336-413a-8834-2be017ce403f" />
 
+En la pantalla de niveles de dificultad se presentan tres opciones. La primera es el nivel ‘Principiante’, que cuenta con un tablero de 4 x 4 casillas y un total de 3 minas distribuidas aleatoriamente. Este nivel está diseñado para usuarios que están empezando a familiarizarse con el juego.
 
+<img width="331" height="257" alt="image" src="https://github.com/user-attachments/assets/5420fb24-1de7-427c-ab1b-83684b389f19" />
+
+Luego se encuentra el nivel ‘Intermedio’, el cual presenta un tablero de 8 x 8 casillas y contiene un total de 13 minas. Este nivel representa un mayor desafío, ideal para jugadores con algo más de experiencia en el juego.
+
+<img width="331" height="257" alt="image" src="https://github.com/user-attachments/assets/4cd56461-c4dd-4731-9425-c53fee5f632a" />
+
+Y finalmente, está el nivel de dificultad ‘Experto’, que cuenta con un tablero de 16 x 16 casillas y un total de 50 minas. Este nivel está diseñado para jugadores avanzados que buscan un reto mucho más complejo y estratégico.
+
+<img width="331" height="257" alt="image" src="https://github.com/user-attachments/assets/e41b2cb9-c1f1-4a09-ac8d-467d58e0949b" />
 
 
 
