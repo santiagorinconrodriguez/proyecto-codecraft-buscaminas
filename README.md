@@ -139,14 +139,19 @@ Posteriormente, el juego dirige al usuario a la selección de niveles de dificul
 
 <img width="331" height="257" alt="image" src="https://github.com/user-attachments/assets/e05f3297-2336-413a-8834-2be017ce403f" />
 
-En la pantalla de niveles de dificultad se presentan tres opciones. La primera es el nivel ‘Principiante’, que cuenta con un tablero de 4 x 4 casillas y un total de 3 minas distribuidas aleatoriamente. Este nivel está diseñado para usuarios que están empezando a familiarizarse con el juego.
+En la pantalla de niveles de dificultad se presentan tres opciones. 
+
+### *Nivel Principiante:* 
+La primera es el nivel ‘Principiante’, que cuenta con un tablero de 4 x 4 casillas y un total de 3 minas distribuidas aleatoriamente. Este nivel está diseñado para usuarios que están empezando a familiarizarse con el juego.
 
 <img width="331" height="257" alt="image" src="https://github.com/user-attachments/assets/5420fb24-1de7-427c-ab1b-83684b389f19" />
 
+### *Nivel Intermedio:* 
 Luego se encuentra el nivel ‘Intermedio’, el cual presenta un tablero de 8 x 8 casillas y contiene un total de 13 minas. Este nivel representa un mayor desafío, ideal para jugadores con algo más de experiencia en el juego.
 
 <img width="331" height="257" alt="image" src="https://github.com/user-attachments/assets/4cd56461-c4dd-4731-9425-c53fee5f632a" />
 
+### *Nivel Experto:* 
 Y finalmente, está el nivel de dificultad ‘Experto’, que cuenta con un tablero de 16 x 16 casillas y un total de 50 minas. Este nivel está diseñado para jugadores avanzados que buscan un reto mucho más complejo y estratégico.
 
 <img width="331" height="257" alt="image" src="https://github.com/user-attachments/assets/e41b2cb9-c1f1-4a09-ac8d-467d58e0949b" />
