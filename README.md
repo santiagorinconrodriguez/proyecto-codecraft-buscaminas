@@ -131,7 +131,7 @@ En el menú del juego se presentan dos opciones principales: ‘Continuar’ e �
 
 <img width="331" height="257" alt="image" src="https://github.com/user-attachments/assets/81b45f9c-78aa-4253-9151-703c78bd62de" />
 
-En el caso de la opción ‘Instrucciones’, esta dirige al jugador a una pantalla donde se explican las reglas y mecánicas del juego. Al finalizar la lectura, se mostrará un botón llamado ‘Continuar’, el cual, al igual que la opción principal del menú, permite acceder a los distintos niveles de dificultad del juego."
+En el caso de la opción ‘Instrucciones’, esta dirige al jugador a una pantalla donde se explican las reglas y mecánicas del juego. Al finalizar la lectura, se mostrará un botón llamado ‘Continuar’, el cual, al igual que la opción principal del menú, permite acceder a los distintos niveles de dificultad del juego.
 
 <img width="331" height="257" alt="image" src="https://github.com/user-attachments/assets/fd66167f-abcf-4301-86a5-6c48013fb3a8" />
 
@@ -157,6 +157,14 @@ Y finalmente, está el nivel de dificultad ‘Experto’, que cuenta con un tabl
 
 <img width="331" height="257" alt="image" src="https://github.com/user-attachments/assets/e41b2cb9-c1f1-4a09-ac8d-467d58e0949b" />
 
+## ¿Como se juega?
+Al ingresar a un nivel de dificultad, el jugador podrá seleccionar las casillas del tablero haciendo clic izquierdo sobre ellas. Al hacerlo, se revelará el contenido de la casilla: si no hay una mina, se mostrará un número que indica cuántas minas hay en las casillas adyacentes. Esta información permite al jugador deducir la ubicación de las minas y avanzar con mayor estrategia.
+
+<img width="300" height="190" alt="image" src="https://github.com/user-attachments/assets/4f8a16c0-df92-41dc-8bc3-8df494593d36" />
+
+Si el jugador, después de revelar ciertas casillas, sospecha que hay una mina en una ubicación específica, podrá hacer clic derecho sobre esa casilla para colocar una bandera. Esta bandera indica que el jugador cree que hay una mina en ese lugar y sirve como una marca visual para evitar seleccionarla accidentalmente.
+
+<img width="331" height="257" alt="image" src="https://github.com/user-attachments/assets/78ced2a0-6bfa-4176-87d5-e284c1546619" />
 
 
 # Autores:
