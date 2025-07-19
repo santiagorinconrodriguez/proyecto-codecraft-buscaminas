@@ -91,9 +91,9 @@ flowchart TD
     C -- Sí --> D[/Mostrar instrucciones/]
     C -- No --> F
     D --> F{"Escoga una dificultad"}
-    F -- Principiante --> G[/Mostrar tablero 8 x 8 con 10 minas/]
-    F -- Intermedio --> H[/Mostrar tablero 16 x 16 con 40 minas/]
-    F -- Experto --> I[/Mostrar tablero 16 x 36 con 99 minas/]
+    F -- Principiante --> G[/Mostrar tablero 4 x 4 con 3 minas/]
+    F -- Intermedio --> H[/Mostrar tablero 8 x 8 con 13 minas/]
+    F -- Experto --> I[/Mostrar tablero 16 x 36 con 50 minas/]
     G --> J[seleccione una casilla]
     H --> J
     I --> J
