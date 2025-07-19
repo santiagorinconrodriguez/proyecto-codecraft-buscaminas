@@ -185,3 +185,4 @@ Al finalizar el juego, ya sea en caso de victoria o derrota, se presentan dos op
 - [Brayan Santiago Rincón Rodríguez](https://github.com/santiagorinconrodriguez)
 - [Nelson Manuel Amaya Diaz](https://github.com/ingnelama)
 - [Sebastian Carvajal Rojas](https://github.com/sebascarvajalr)
+- [Wilder Poscue Labio](https://github.com/wilder-29)
