@@ -121,6 +121,58 @@ flowchart TD
 | Semana 15| 14/07/2025 - 20/07/2025 | 🧪 Integración y pruebas: conectar lógica + interfaz                                           |
 | Semana 16| 21/07/2025 - 27/07/2025 | 🧾 Presentación final del proyecto: mostrar funcionalidades completas y exponer                | 
 
+## Comó ejecutar el código.
+El primer paso es descargar los archivos que vamos a necesitar ( Código, interfaz e imágenes), que se encuentran subidas en el inicio del repositorio como se ve acontinuación.
+
+<img width="899" height="248" alt="image" src="https://github.com/user-attachments/assets/17c8d650-bddc-47f3-8a17-a4f0a774e844" />
+
+
+Luego, ubicamos los archivos y el código dentro de una carpeta y los ordenamos de la siguiente manera.
+
+<img width="637" height="103" alt="image" src="https://github.com/user-attachments/assets/6ed185e2-0c31-4d24-91a6-241748f8aec4" />
+
+
+En la carpeta de imagenes lo acomodamos de esta manera.
+
+<img width="576" height="132" alt="image" src="https://github.com/user-attachments/assets/58fe54a5-7542-4c6c-96b9-cf1579c36ce3" />
+
+
+En la carpeta de letras de esta otra manera.
+
+<img width="363" height="145" alt="image" src="https://github.com/user-attachments/assets/cfaace36-5383-4a45-9b82-680f1c059bf4" />
+
+
+Ahora viene lo más importante. ¿ Cómo ejecutar el código?
+Nos dirigimos al programa Visual Studio Code, y nos dirigimos hacia la parte superior izquierda en la barra de herramientas y seleccionamos la opción “File” y luego seleccionamos la opción “Open Folder” o en el teclado seleccionamos las teclas ctrl + K Ctrl + O.
+
+<img width="516" height="635" alt="image" src="https://github.com/user-attachments/assets/b7fb8606-5b24-4c2c-bd44-d179f545f271" />
+
+
+Aquí seleccionamos la carpeta en la cual guardamos los el código y los archivos.
+
+<img width="1161" height="658" alt="image" src="https://github.com/user-attachments/assets/6f27982c-0098-4c90-8069-6f695be28ad1" />
+<img width="227" height="372" alt="image" src="https://github.com/user-attachments/assets/a26a01c4-681c-4b19-a16d-c56ffb0ead42" />
+
+En este punto seleccionamos los 2 códigos y verificamos que los 2 se ejecuten con normalidad.
+
+<img width="1917" height="1037" alt="image" src="https://github.com/user-attachments/assets/50a76b71-80d6-454b-83b2-06d8627c1f0f" />
+
+Aquí notaremos que el código de la interfaz presenta un error como se verá a continuación.
+
+<img width="1159" height="151" alt="image" src="https://github.com/user-attachments/assets/5adbb00e-7b38-4b57-8971-ffb3371de254" />
+
+
+Para este caso lo único que debemos hacer es instalar la biblioteca pygame, porque fue la que utilizamos para hacer la interfaz gráfica. Para eso, escribimos “ pip install pygame” como se ve en la imagen, ya con la biblioteca instalada podremos ejecutar el código de la interfaz.
+
+
+<img width="1161" height="154" alt="image" src="https://github.com/user-attachments/assets/2a313ab7-1a55-4848-a50c-226ef5f2fa1b" />
+<img width="1226" height="210" alt="image" src="https://github.com/user-attachments/assets/5a11b808-f056-46e7-b503-af3a75b19752" />
+
+Ahora simplemente ejecutamos el código y procedemos a iniciar el juego.
+
+<img width="1890" height="851" alt="image" src="https://github.com/user-attachments/assets/323c4aff-5a69-485a-b10d-4f2582ef5b68" />
+
+
 
 ## Menú del juego:
 El menú principal es la pantalla inicial del juego desde donde el jugador puede acceder a las diferentes funciones antes de comenzar a jugar.
