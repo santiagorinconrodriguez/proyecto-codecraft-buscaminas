@@ -37,7 +37,9 @@ Presentar y desarrollar un juego interactivo de Buscaminas que combine lógica, 
 - Continuar con la selección de dificultad.
 - Preguntar al usuario qué dificultad desea:
     -> Principiante -> tablero 4x4, 3 minas.
+  
     -> Intermedio -> tablero 8x8, 13 minas.
+  
     -> Experto -> tablero 16x16, 50 minas.
 - Generar el tablero vacío y colocar minas de forma aleatoria.
 - El jugador selecciona una casilla.
