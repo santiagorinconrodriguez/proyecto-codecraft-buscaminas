@@ -116,9 +116,9 @@ flowchart TD
 ### Cronograma
 
 |  Semana  |          Fecha          | Tema                                                                                           |
-|----------|-------------------------|------------------------------------------------------------------------------------------------|
+|----------|-------------------------|-------------------------------------------------------------------------------------------------|
 | Semana 10| 09/06/2025 - 15/06/2025 | ✅ Diseño del preproyecto: ideas del juego, reglas, diagramas de flujo                         |
-| Semana 11| 16/06/2025 - 22/06/2025 | 📋 Revisión de avances: presentación del diagramas de flujo y retroalimentación del profesor   |
+| Semana 11| 16/06/2025 - 22/06/2025 | 📋 Revisión de avances: presentación de diagramas de flujo y retroalimentación del profesor    |
 | Semana 12| 23/06/2025 - 29/06/2025 | 🧠 Estructura base del juego: lógica, funciones principales, etc                               |
 | Semana 13| 30/07/2025 - 06/07/2025 | 🐞 Depuración y validación: comprobar que el buscaminas funcione bien                          |
 | Semana 14| 07/07/2025 - 13/07/2025 | 🎨 Inicio de interfaz gráfica con tkinter o pygame                                             |
@@ -126,7 +126,7 @@ flowchart TD
 | Semana 16| 21/07/2025 - 27/07/2025 | 🧾 Presentación final del proyecto: mostrar funcionalidades completas y exponer                | 
 
 ## Comó ejecutar el código.
-El primer paso es descargar los archivos que vamos a necesitar ( Código, interfaz e imágenes), que se encuentran subidas en el inicio del repositorio como se ve acontinuación.
+El primer paso es descargar los archivos que vamos a necesitar ( Código, interfaz e imágenes), que se encuentran subidas en el inicio del repositorio como se ve a continuación.
 
 <img width="899" height="248" alt="image" src="https://github.com/user-attachments/assets/17c8d650-bddc-47f3-8a17-a4f0a774e844" />
 
@@ -152,7 +152,7 @@ Nos dirigimos al programa Visual Studio Code, y nos dirigimos hacia la parte sup
 <img width="516" height="635" alt="image" src="https://github.com/user-attachments/assets/b7fb8606-5b24-4c2c-bd44-d179f545f271" />
 
 
-Aquí seleccionamos la carpeta en la cual guardamos los el código y los archivos.
+Aquí seleccionamos la carpeta en la cual guardamos los archivos.
 
 <img width="1161" height="658" alt="image" src="https://github.com/user-attachments/assets/6f27982c-0098-4c90-8069-6f695be28ad1" />
 <img width="227" height="372" alt="image" src="https://github.com/user-attachments/assets/a26a01c4-681c-4b19-a16d-c56ffb0ead42" />
@@ -213,7 +213,7 @@ Y finalmente, está el nivel de dificultad ‘Experto’, que cuenta con un tabl
 
 <img width="331" height="257" alt="image" src="https://github.com/user-attachments/assets/e41b2cb9-c1f1-4a09-ac8d-467d58e0949b" />
 
-## ¿Como se juega?
+## ¿ Cómo se juega ?
 Al ingresar a un nivel de dificultad, el jugador podrá seleccionar las casillas del tablero haciendo clic izquierdo sobre ellas. Al hacerlo, se revelará el contenido de la casilla: si no hay una mina, se mostrará un número que indica cuántas minas hay en las casillas adyacentes. Esta información permite al jugador deducir la ubicación de las minas y avanzar con mayor estrategia.
 
 <img width="300" height="190" alt="image" src="https://github.com/user-attachments/assets/4f8a16c0-df92-41dc-8bc3-8df494593d36" />
@@ -235,7 +235,7 @@ Al finalizar el juego, ya sea en caso de victoria o derrota, se presentan dos op
 
 - Salir: permite cerrar el juego por completo y regresar al escritorio.
 
-- Jugar de nuevo: redirige al jugador a la pantalla de selección de niveles de dificultad, para que pueda elegir un nuevo modo y volver a intentarlo.
+- Jugar de nuevo: redirige al jugador a la pantalla de selección de niveles de dificultad, para que vuelva a elegir un modo y volver a intentarlo.
 
 # Autores:
 - [Brayan Santiago Rincón Rodríguez](https://github.com/santiagorinconrodriguez)
