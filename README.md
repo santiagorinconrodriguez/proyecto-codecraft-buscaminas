@@ -132,7 +132,7 @@ El primer paso es descargar Pygame. Para eso, escribimos “ pip install pygame�
 <img width="1161" height="154" alt="image" src="https://github.com/user-attachments/assets/2a313ab7-1a55-4848-a50c-226ef5f2fa1b" />
 <img width="1226" height="210" alt="image" src="https://github.com/user-attachments/assets/5a11b808-f056-46e7-b503-af3a75b19752" />
 
-Luego, descargaremos los archivos py, ttf y jpg. ( Código, interfaz e imágenes), que se encuentran subidas en el inicio del repositorio como se ve a continuación.
+Luego, descargaremos los archivos py, ttf y png. ( Código, interfaz e imágenes), que se encuentran subidas en el inicio del repositorio como se ve a continuación.
 
 <img width="899" height="248" alt="image" src="https://github.com/user-attachments/assets/17c8d650-bddc-47f3-8a17-a4f0a774e844" />
 
