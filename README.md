@@ -127,7 +127,7 @@ flowchart TD
 
 ## Comó ejecutar Mini Hunter 3000.
 
-El primer paso es descargar Pygame. Para eso, escribimos “ pip install pygame” como se ve en la imagen.
+El primer paso es descargar Pygame. Para eso, escribimos “ pip install pygame” como se ve en la siguiente imagen .
 
 <img width="1161" height="154" alt="image" src="https://github.com/user-attachments/assets/2a313ab7-1a55-4848-a50c-226ef5f2fa1b" />
 <img width="1226" height="210" alt="image" src="https://github.com/user-attachments/assets/5a11b808-f056-46e7-b503-af3a75b19752" />
@@ -142,17 +142,18 @@ Ahora, ubicamos los archivos y el código dentro de una carpeta y los ordenamos 
 <img width="637" height="103" alt="image" src="https://github.com/user-attachments/assets/6ed185e2-0c31-4d24-91a6-241748f8aec4" />
 
 
-En la carpeta de imagenes lo acomodamos de esta manera.
+En la carpeta imagenes lo acomodamos de esta manera.
 
 <img width="576" height="132" alt="image" src="https://github.com/user-attachments/assets/58fe54a5-7542-4c6c-96b9-cf1579c36ce3" />
 
 
-En la carpeta de letras de esta otra manera.
+En la carpeta letras de esta otra manera.
 
 <img width="363" height="145" alt="image" src="https://github.com/user-attachments/assets/cfaace36-5383-4a45-9b82-680f1c059bf4" />
 
 
-Ahora viene lo más importante. ¿ Cómo ejecutar el código?
+Ahora viene lo más importante. ¿ Cómo ejecutar el código ?.
+
 Nos dirigimos al programa Visual Studio Code, y nos dirigimos hacia la parte superior izquierda en la barra de herramientas y seleccionamos la opción “File” y luego seleccionamos la opción “Open Folder” o en el teclado seleccionamos las teclas ctrl + K Ctrl + O.
 
 <img width="516" height="635" alt="image" src="https://github.com/user-attachments/assets/b7fb8606-5b24-4c2c-bd44-d179f545f271" />
@@ -174,6 +175,7 @@ Por ultimo,  simplemente ejecutamos el código y procedemos a iniciar el juego.
 
 
 ## Menú del juego:
+
 El menú principal es la pantalla inicial del juego desde donde el jugador puede acceder a las diferentes funciones antes de comenzar a jugar.
 
 <img width="331" height="257" alt="image" src="https://github.com/user-attachments/assets/d9f21f26-2de3-4755-abc5-d2ee9f90bfcc" />
@@ -191,24 +193,29 @@ Posteriormente, el juego dirige al usuario a la selección de niveles de dificul
 <img width="331" height="257" alt="image" src="https://github.com/user-attachments/assets/e05f3297-2336-413a-8834-2be017ce403f" />
 
 ## Niveles de dificultad
+
 En la pantalla de niveles de dificultad se presentan tres opciones, Principiante, Intermedio y Experto
 
 ### *Nivel Principiante:* 
+
 La primera es el nivel ‘Principiante’, que cuenta con un tablero de 4 x 4 casillas y un total de 3 minas distribuidas aleatoriamente. Este nivel está diseñado para usuarios que están empezando a familiarizarse con el juego.
 
 <img width="331" height="257" alt="image" src="https://github.com/user-attachments/assets/5420fb24-1de7-427c-ab1b-83684b389f19" />
 
 ### *Nivel Intermedio:* 
+
 Luego se encuentra el nivel ‘Intermedio’, el cual presenta un tablero de 8 x 8 casillas y contiene un total de 13 minas. Este nivel representa un mayor desafío, ideal para jugadores con algo más de experiencia en el juego.
 
 <img width="331" height="257" alt="image" src="https://github.com/user-attachments/assets/4cd56461-c4dd-4731-9425-c53fee5f632a" />
 
 ### *Nivel Experto:* 
+
 Y finalmente, está el nivel de dificultad ‘Experto’, que cuenta con un tablero de 16 x 16 casillas y un total de 50 minas. Este nivel está diseñado para jugadores avanzados que buscan un reto mucho más complejo y estratégico.
 
 <img width="331" height="257" alt="image" src="https://github.com/user-attachments/assets/e41b2cb9-c1f1-4a09-ac8d-467d58e0949b" />
 
 ## ¿ Cómo se juega ?
+
 Al ingresar a un nivel de dificultad, el jugador podrá seleccionar las casillas del tablero haciendo clic izquierdo sobre ellas. Al hacerlo, se revelará el contenido de la casilla: si no hay una mina, se mostrará un número que indica cuántas minas hay en las casillas adyacentes. Esta información permite al jugador deducir la ubicación de las minas y avanzar con mayor estrategia.
 
 <img width="300" height="190" alt="image" src="https://github.com/user-attachments/assets/4f8a16c0-df92-41dc-8bc3-8df494593d36" />
@@ -226,6 +233,7 @@ En cambio, si el jugador selecciona una casilla que contiene una mina, el juego 
 <img width="331" height="257" alt="image" src="https://github.com/user-attachments/assets/9bbd9265-0f3f-46f1-af30-22d42c4f906b" />
 
 ### Opciones al finalizar el juego:
+
 Al finalizar el juego, ya sea en caso de victoria o derrota, se presentan dos opciones en pantalla:
 
 - Salir: permite cerrar el juego por completo y regresar al escritorio.
