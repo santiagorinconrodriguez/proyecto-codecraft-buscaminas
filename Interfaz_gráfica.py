@@ -158,7 +158,6 @@ def verificar_victoria(tablero, visible):
 
 # El programa entrará a un ciclo para que la pantalla se esté mostrando continuamente
 while True:
-    click_realizado = False  
     # Con el desplazamiento definido cada vez que el programa entre de nuevo el el ciclo se le restará 1, y se reiniciará cuando sea menor o igual al ancho de la pantalla
     desplazamiento_x = desplazamiento_x - 1
     if desplazamiento_x <= -ancho_pantalla:
