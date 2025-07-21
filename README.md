@@ -154,7 +154,7 @@ Aquí seleccionamos la carpeta en la cual guardamos los archivos.
 <img width="1161" height="658" alt="image" src="https://github.com/user-attachments/assets/6f27982c-0098-4c90-8069-6f695be28ad1" />
 <img width="227" height="372" alt="image" src="https://github.com/user-attachments/assets/a26a01c4-681c-4b19-a16d-c56ffb0ead42" />
 
-En este punto seleccionamos los 2 códigos y verificamos que los 2 se ejecuten con normalidad.
+En este punto seleccionamos los 2 códigos y verificamos que interfaz_gráfica se ejecute con normalidad.
 
 <img width="1917" height="1037" alt="image" src="https://github.com/user-attachments/assets/50a76b71-80d6-454b-83b2-06d8627c1f0f" />
 
