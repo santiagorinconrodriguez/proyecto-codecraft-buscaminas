@@ -127,7 +127,7 @@ En nuestro proyecto utilizaremos pygame ya que trae más herramientas y genera u
 
 ## ¿Cómo ejecutar Mine Hunter 3000?
 
-El primer paso es descargar Pygame. Para eso, escribimos “ pip install pygame” como se ve en la siguiente imagen .
+El primer paso es descargar Pygame dentro de Visual Studio Code. Para eso, escribimos “ pip install pygame” como se ve en la siguiente imagen .
 
 <img width="1161" height="154" alt="image" src="https://github.com/user-attachments/assets/2a313ab7-1a55-4848-a50c-226ef5f2fa1b" />
 <img width="1226" height="210" alt="image" src="https://github.com/user-attachments/assets/5a11b808-f056-46e7-b503-af3a75b19752" />
