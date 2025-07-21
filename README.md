@@ -125,7 +125,7 @@ flowchart TD
 | Semana 15| 14/07/2025 - 20/07/2025 | 🧪 Integración y pruebas: conectar lógica + interfaz                                           |
 | Semana 16| 21/07/2025 - 27/07/2025 | 🧾 Presentación final del proyecto: mostrar funcionalidades completas y exponer                | 
 
-## Comó ejecutar Mini Hunter 3000.
+## ¿Cóm0 ejecutar Mini Hunter 3000?
 
 El primer paso es descargar Pygame. Para eso, escribimos “ pip install pygame” como se ve en la siguiente imagen .
 
@@ -140,16 +140,6 @@ Luego, descargaremos los archivos py, ttf y png. ( Código, interfaz e imágenes
 Ahora, ubicamos los archivos y el código dentro de una carpeta y los ordenamos de la siguiente manera.
 
 <img width="637" height="103" alt="image" src="https://github.com/user-attachments/assets/6ed185e2-0c31-4d24-91a6-241748f8aec4" />
-
-
-En la carpeta imagenes lo acomodamos de esta manera.
-
-<img width="576" height="132" alt="image" src="https://github.com/user-attachments/assets/58fe54a5-7542-4c6c-96b9-cf1579c36ce3" />
-
-
-En la carpeta letras de esta otra manera.
-
-<img width="363" height="145" alt="image" src="https://github.com/user-attachments/assets/cfaace36-5383-4a45-9b82-680f1c059bf4" />
 
 
 Ahora viene lo más importante. ¿ Cómo ejecutar el código ?.
