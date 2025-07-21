@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 Santiago Rincón
+Copyright (c) 2025 Brayan Santiago Rincón Rodríguez, Nelson Manuel Amaya Diaz, Sebastian Carvajal Rojas, Wilder Poscue Labio
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
