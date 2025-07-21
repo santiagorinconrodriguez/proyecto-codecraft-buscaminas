@@ -1,3 +1,5 @@
+# LÓGICA DEL BUSCAMINAS
+
 import random
 
 # Se hace una función llamafa generar_tablero, al cual le entran tres valores: filas, columnas y minas
