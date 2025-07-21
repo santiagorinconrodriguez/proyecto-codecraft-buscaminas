@@ -60,28 +60,7 @@ Presentar y desarrollar un juego interactivo de Buscaminas que combine lógica, 
         -> Si elige Sí, reiniciar desde selección de dificultad.
         -> Si elige No,cerrar el juego.
 
-## *Interfaz grafica*
-### Pygame
-- librería para el desarrollo de videojuegos en segunda dimensión 2D con el lenguaje de programación Python. Pygame está basada en SDL, que es una librería que nos provee acceso de bajo nivel al audio, teclado, ratón y al hardware gráfico de nuestro ordenador.
-
-_Ventajas_
-- Función main() o clase Game(): contenedor del videojuego.
-- Control de eventos: pygame.event.get(), es decir, lista de eventos a procesar.
-- Sprites: rectángulos que representan los objetos móviles o fijos del juego. Estos pueden animarse con frames o modificarse gráficamente. También se pueden detectar colisiones pygame entre ellos.
-- Sonidos: pygame.mixer.Sound() y play.
-- Textos: pygame.font.Font(file_path, size) y render.
-
-### tkinter
-- Módulo estándar de Python para crear interfaces gráficas de usuario (GUI). Es un "binding" de la biblioteca Tcl/Tk, lo que significa que permite usar las funcionalidades de Tk desde Python.
-
-_Ventajas_
-- Crea interfaces gráficas de usuario de forma rápida y eficiente, lo que es útil para aplicaciones de escritorio y otras herramientas. 
-- Es conocido por ser relativamente sencillo de aprender y usar.
-
-En nuestro proyecto utilizaremos pygame ya que trae más herramientas y genera una interfaz grafica de mayor calidad, permitiendonos editar detalles con el fin de obtener un resultado más estetico.
-
-
-## *Diagrama de flujo del juego*
+  ## *Diagrama de flujo del juego*
 
 ``` mermaid
 ---
@@ -112,6 +91,27 @@ flowchart TD
     Q -- Sí -->F
     Q -- No --> P(["Fin"])
 ```
+
+## *Interfaz grafica*
+### Pygame
+- librería para el desarrollo de videojuegos en segunda dimensión 2D con el lenguaje de programación Python. Pygame está basada en SDL, que es una librería que nos provee acceso de bajo nivel al audio, teclado, ratón y al hardware gráfico de nuestro ordenador.
+
+_Ventajas_
+- Función main() o clase Game(): contenedor del videojuego.
+- Control de eventos: pygame.event.get(), es decir, lista de eventos a procesar.
+- Sprites: rectángulos que representan los objetos móviles o fijos del juego. Estos pueden animarse con frames o modificarse gráficamente. También se pueden detectar colisiones pygame entre ellos.
+- Sonidos: pygame.mixer.Sound() y play.
+- Textos: pygame.font.Font(file_path, size) y render.
+
+### tkinter
+- Módulo estándar de Python para crear interfaces gráficas de usuario (GUI). Es un "binding" de la biblioteca Tcl/Tk, lo que significa que permite usar las funcionalidades de Tk desde Python.
+
+_Ventajas_
+- Crea interfaces gráficas de usuario de forma rápida y eficiente, lo que es útil para aplicaciones de escritorio y otras herramientas. 
+- Es conocido por ser relativamente sencillo de aprender y usar.
+
+En nuestro proyecto utilizaremos pygame ya que trae más herramientas y genera una interfaz grafica de mayor calidad, permitiendonos editar detalles con el fin de obtener un resultado más estetico.
+
 ## Plan de desarrollo
 ### Cronograma
 
