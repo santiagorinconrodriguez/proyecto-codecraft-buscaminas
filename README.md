@@ -125,7 +125,7 @@ En nuestro proyecto utilizaremos pygame ya que trae más herramientas y genera u
 | Semana 15| 14/07/2025 - 20/07/2025 | 🧪 Integración y pruebas: conectar lógica + interfaz                                           |
 | Semana 16| 21/07/2025 - 27/07/2025 | 🧾 Presentación final del proyecto: mostrar funcionalidades completas y exponer                | 
 
-## ¿Cóm0 ejecutar Mini Hunter 3000?
+## ¿Cómo ejecutar Mine Hunter 3000?
 
 El primer paso es descargar Pygame. Para eso, escribimos “ pip install pygame” como se ve en la siguiente imagen .
 
